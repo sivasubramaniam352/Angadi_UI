@@ -1,0 +1,42 @@
+.registerForm{
+    margin-left: 500px;
+    /* margin-bottom: 30px; */
+    width:30%;
+    height:570px;
+    border: 1px solid black;
+}
+.rsignButton{
+    width: 100%;
+}
+.registerBackgroud{
+    background:rgba(0, 0, 0, 0) linear-gradient(to right, rgb(112, 225, 245), rgb(255, 209, 148)) repeat scroll 0% 0%;
+    padding-top: 30px;
+    padding-bottom: 30px ;
+}
+.regHeading{
+    margin-top: 20px;
+    text-align: center;
+}
+.loginLink {
+    color:#ff69B4;
+    cursor: pointer;
+    text-decoration:none;
+}
+.loginLink:hover{
+    color: #ff69B4;
+    cursor: pointer;
+    text-decoration:none;
+}
+.radio{
+    text-align: center;
+}
+.loginForm{
+    margin-left: 500px;
+    /* margin-bottom: 30px; */
+    width:30%;
+    height:370px;
+    border: 1px solid black;
+}
+.Err-res-Reg{
+    color: red;
+}

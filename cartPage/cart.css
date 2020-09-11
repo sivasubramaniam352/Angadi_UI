@@ -1,0 +1,37 @@
+.cart-product-row{
+    margin-bottom: 5%;
+}
+.product-cart-discount{
+    color: orange;
+    text-decoration: line-through;
+}
+
+.text-in-cart{
+    font-size: 10px;
+}
+.bag-discount-cart{
+    color: greenyellow;
+}
+.cart-empty-cont{
+    padding:25%
+}
+.adresses-Container{
+    margin-bottom: 20px;
+}
+
+.removeBtn-cartPage{
+    color: gray !important;
+    border:none !important;
+    background-color: white !important;
+}
+.coupon-btn-cart{
+    border-radius: 0% !important;
+ 
+    padding: 0% !important;
+}
+.product-calc-cont{
+    font-size: 12px;
+}
+.leftSide-cont-cart{
+    border-right:1px solid rgba(0,0,0,.125)
+}

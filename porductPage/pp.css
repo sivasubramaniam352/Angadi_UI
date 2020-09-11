@@ -1,0 +1,52 @@
+.prod-images{
+    width: 100%;
+    transition: transform .2s;
+}
+.prod-image-cont{
+    margin-top: 5%;
+    overflow: hidden;
+}
+.prod-images:hover{
+    transform: scale(1.1);
+}
+.image-pp-cont{
+    width: 98% !important;
+}
+.details-pp-cont{
+    padding-top: 5%;
+}
+.prod-pp-title{
+    font-weight: 500;
+    font-size: 35px;
+}
+.pp-prodPrice{
+    text-decoration: line-through;
+}
+.pp-prodOffer{
+    font-weight: 700;
+    color: orange;
+
+}
+.pp-sizeButton{
+    
+    border: 1px solid black !important;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 48% !important;
+    font-size: 12px !important;
+    margin-left: 10px !important;
+    background-color: white !important;
+    color: black !important;
+
+}
+.pp-sizeButton:focus{
+    background-color: darkgray !important;
+    color: white !important;
+    font-weight: 700;
+  
+}
+/* .pp-sizeButton-span{
+    margin-left: 5%;
+    margin-right: 5%;
+} */

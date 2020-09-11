@@ -1,0 +1,21 @@
+.addpage-addAddress-button{
+    padding-top:2%;
+    padding-bottom:2%;
+
+}
+.addresspage-modal-input{
+    width: 100% !important;
+}
+.order-button{
+    padding:5%
+}
+.tracking--navbar{
+    position: absolute;
+    right: 42%;
+}
+.address-track{
+    color: green;
+}
+.spacer-address-nav{
+    height:30%
+}

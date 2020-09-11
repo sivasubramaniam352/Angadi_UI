@@ -1,0 +1,168 @@
+.navBar-main-div{
+  
+   box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+   border-bottom: 0.1px solid gray;
+   z-index: 1080 !important;
+
+}
+navBar-main-div  > a :hover{
+    cursor: pointer;
+}
+
+.bg-light_blue{
+    background-color: rgba(0, 255, 255, 0.548) !important;
+}
+.bg-red{
+    background:rgba(0, 0, 0, 0) linear-gradient(to right, rgb(254, 172, 94), rgb(199, 121, 208),
+    rgb(75, 192, 200)) repeat scroll 0% 0%;
+
+}
+
+.search_bar{
+    position: absolute;
+    right:20%;
+    top:25%;
+    width: 25%;
+    
+}
+
+.searchInput{
+    display: inline;
+    border: hidden !important;
+    background-color:#6c0812 !important;
+    border: 1px solid #6c0812 !important;
+    color: white !important;
+    height: 38px  !important;
+    width: 83%  !important;
+    border-bottom-left-radius: 0% !important;   
+    border-top-left-radius: 0% !important;
+
+}
+*:focus{
+   outline:none !important ;
+}
+.search-sprite {
+    
+   background-color:  #6c0812 !important ;
+   border: 1px solid #6c0812 !important;
+    border-bottom-right-radius: 0% !important;
+    border-top-right-radius: 0% !important;
+}
+.men  {
+    font-size: 120%;
+    
+}
+.women{
+    font-size: 120%;
+    
+}
+.kids  {
+    font-size: 120%;
+    
+}
+.men :hover{
+    color:#6c0812 !important ;
+}
+
+.women :hover{
+    color:pink !important;
+}
+
+.kids  :hover{
+    color: blue !important;
+}
+.App-iconUser-main{
+    position: absolute;
+    right:13%;
+    top:37%;
+}
+
+.App-iconBag-main{
+    position: absolute;
+    right:9%;
+    top:37%;
+}
+
+.App-iconWL-main{
+    position: absolute;
+    right:4%;
+    top:37%;
+}
+
+
+
+.App-hover:hover{
+    cursor:pointer;
+}
+
+.modal-box-style{
+    margin-top: 4% !important;
+    max-width: 75%  !important;
+   
+}
+.Brand-image-main{
+    max-width: 100%;
+}
+.Nav-brand-container{
+    width: 3%;
+}
+.action-icons-main1{
+    margin-left: 20%;
+}
+.action-icons-main2{
+    margin-left: 30%;
+}
+.action-icons-main3{
+    margin-left: 20%;
+}
+.Action-text-main{
+    font-size: 13px;
+}
+
+.user-Drop-Main{
+    position: fixed;
+    right: 1%;
+    width: 24%;
+    top: 10%;
+    z-index: 1030;
+}
+.WishBadge-navbar{
+    position: absolute;
+    top: -32%;
+    left: 40%;
+    border-radius: 50% !important;
+}
+.BagBadge-navbar{
+    position: absolute;
+    top: -32%;
+    left: 0%;
+    border-radius: 50% !important;
+}
+.modal-nav-headMen{
+    color: red;
+    font-weight: 800;
+    
+}
+.modal-nav-headWomen{
+    color: darkmagenta;
+    font-weight: 800;
+    
+}
+.modal-nav-headKids{
+    color: green;
+    font-weight: 800;
+    
+}
+.modal-nav-headhl{
+    color: lightskyblue;
+    font-weight: 800;
+    
+}
+.modal-nav-headDisc{
+    color: blue;
+    font-weight: 800;
+    
+}
+.modal-list{
+    list-style-type: none;
+}

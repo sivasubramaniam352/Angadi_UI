@@ -1,0 +1,37 @@
+.card-description{
+    font-size: 12px;
+}
+.card-price{
+    font-size: 18px;
+}
+
+.price-inner{
+    color: orange;
+}
+
+.priceCont{
+    padding: 2%;
+}
+
+.product-cont{
+    border:none !important
+}
+.buy-cont{
+    width: 100%;
+    position: absolute;
+    top: 59%;
+    background-color: white;
+    height: 20% !important;
+    opacity: 0;
+    transition: .8s ease;
+}
+.buy-button{
+    width: 100% !important;
+}
+.cart-button{
+    width: 100% !important;
+}
+.product-cont:hover .buy-cont{
+    opacity: 0.8;
+}
+

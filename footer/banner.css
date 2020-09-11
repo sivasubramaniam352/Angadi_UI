@@ -1,0 +1,42 @@
+
+.foot-style{
+    width: 100%;
+}
+.footer-main-Bg{
+
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(254, 172, 94), rgb(199, 121, 208),
+    rgb(75, 192, 200)) repeat scroll 0% 0%;
+
+}
+
+.Brand-Image-Footer{
+    margin-top: 40%;
+    margin-left:20% ;
+    width:30%;
+}
+.heading-footer{
+    font-weight: 650 !important;
+    list-style-type: none;
+    margin-top: 5%;
+}
+.list-items{
+    cursor: pointer;
+    list-style-type: none;
+    margin-top: 5%;
+}
+.Link-Images-Container{
+   padding:5%;
+
+}
+.Link-images{
+    width:100%;
+   cursor: pointer; 
+}
+.touch-icon{
+    max-width: 100%;
+    cursor: pointer;
+}
+.touch-icon-container{
+    width: 40%;
+    margin-left: 15%;
+}

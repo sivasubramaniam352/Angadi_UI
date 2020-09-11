@@ -1,0 +1,12 @@
+.profile_show_container{
+    width: 100%;
+    background:rgba(0, 0, 0, 0) linear-gradient(to right, rgb(112, 225, 245), rgb(255, 209, 148)) repeat scroll 0% 0%;
+    padding-left: 20%;
+    padding-top:10%;
+    padding-right:20%;
+    padding-bottom: 5%;
+}
+.border-hide{
+    border-bottom: 0px;
+}
+table {border: none !important;}

@@ -1,0 +1,24 @@
+.details-order{
+    font-size: 12px !important;
+}
+.ordercalc{
+    font-size: 13px !important;
+}
+
+.ordNOandSO{
+    font-size: 13px !important;
+    width: 100%;
+}
+.orderCalc-cont{
+    width: 100%;
+}
+.orderedColor{
+    color: blue;
+}
+.CanceledColor{
+    color: red;
+}
+.orderDetail-cont{
+    width: 240%;
+    font-size: 13px;
+}

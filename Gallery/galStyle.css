@@ -1,0 +1,29 @@
+.card-main-gallery{
+    max-width: 100%;
+    transition: 0.3s;
+}
+.index-gallery-back-card{
+    border:none !important;
+   
+}
+
+.index-gallery-back:hover{
+
+    background:rgba(0, 0, 0, 0) linear-gradient(to right, rgb(254, 172, 94),
+    rgb(199, 121, 208),rgb(75, 192, 200)) repeat scroll 0% 0%;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,.05);
+
+}
+
+.jumbo-Gall-base{
+    background-color: white !important;
+}
+/* .column-gallery-img{
+    padding: 1% !important;
+} */
+
+.card-main-gallery:hover{
+    -ms-transform: scale(1); /* IE 9 */
+    -webkit-transform: scale(1); /* Safari 3-8 */
+    transform: scale(1.08); 
+}
